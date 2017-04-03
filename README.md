@@ -29,3 +29,13 @@ We applied for [Prototype Fund](https://prototypefund.de/en/), to kickstart RiTT
 - [Dialogue Mapping™ FAQs (en)](http://www.cognexus.org/id41.htm)
 - [gIBIS: A tool for all reasons](http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(198905)40:3%3C200::AID-ASI11%3E3.0.CO;2-U/full (en))
 - [Die Computerunterstützung konsensorientierter Gruppenentscheidungen (en)](https://books.google.de/books?id=uIas8LNIczIC&pg=PA197&lpg=PA197&dq=%22gIBIS%22+rittel&source=bl&ots=U_KItG5VVn&sig=BSedbt3H1NM7VDgziWt1xLQEX6c&hl=en&sa=X&ved=0ahUKEwiW85PPu_7SAhVLWBQKHaSSBHgQ6AEIMjAF#v=onepage&q=%22gIBIS%22%20rittel&f=false)
+
+## Inspiration
+
+(Technology and Design)
+
+- directed graph editor, keyboard commands http://bl.ocks.org/rkirsling/5001347  
+easy to turn into first prototype
+- [tech] SVG and Vue.js https://vuejs.org/v2/examples/svg.html
+- [design] Bigscreen typo + lines http://www.kolber.info/#/
+
